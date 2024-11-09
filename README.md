@@ -1,24 +1,2 @@
-# task-vue-3
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**Tampilan Account Explorer**
+![image](https://github.com/user-attachments/assets/bd695d08-a002-416d-937d-3d057f28adeb)
